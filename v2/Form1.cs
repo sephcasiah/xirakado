@@ -2,7 +2,7 @@
 using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Diagnostics.Process;
+using System.Diagnostics;
 using System.Data;
 using System.Drawing;
 using System.Linq;
@@ -19,10 +19,10 @@ namespace xirakado
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
-            Form1.textBox1.text = CmaKeyGen.KeyGen.aid.text
-}
+          //  CmaKeyGen.KeyGen.aid.text = Form1.textBox1.text;
+        }
 
         private void button3_Click(object sender, EventArgs e)
         {
@@ -30,9 +30,14 @@ namespace xirakado
             System.Diagnostics.ProcessStartInfo startInfo = new System.Diagnostics.ProcessStartInfo();
             startInfo.WindowStyle = System.Diagnostics.ProcessWindowStyle.Hidden;
             startInfo.FileName = "cmd.exe";
-            startInfo.Arguments = "/C md %APPDATA%\xirakado";
+            startInfo.Arguments = @"md %APPDATA%\xirakado";
             process.StartInfo = startInfo;
             process.Start();
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            CmaKeyGen.KeyGen.aid.Text = Form1.textBox1.Text;
         }
     }
 }

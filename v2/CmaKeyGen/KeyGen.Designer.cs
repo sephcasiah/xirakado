@@ -91,8 +91,8 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox aid;
-        private System.Windows.Forms.TextBox key;
+        public System.Windows.Forms.TextBox aid;
+        public System.Windows.Forms.TextBox key;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
     }

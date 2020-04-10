@@ -4,3 +4,9 @@ C:\Users\Carol\source\repos\SilicaAndPina-cmakeyderiv-d41084583264\obj\x86\Debug
 C:\Users\Carol\source\repos\SilicaAndPina-cmakeyderiv-d41084583264\obj\x86\Debug\xirakado.Form1.resources
 C:\Users\Carol\source\repos\SilicaAndPina-cmakeyderiv-d41084583264\obj\x86\Debug\xirakado.csproj.GenerateResource.cache
 C:\Users\Carol\source\repos\SilicaAndPina-cmakeyderiv-d41084583264\obj\x86\Debug\xirakado.csproj.CoreCompileInputs.cache
+C:\Users\Carol\Documents\GitHub\xirakado\v2\obj\x86\Debug\xirakado.csprojAssemblyReference.cache
+C:\Users\Carol\Documents\GitHub\xirakado\v2\obj\x86\Debug\CmaKeyGen.KeyGen.resources
+C:\Users\Carol\Documents\GitHub\xirakado\v2\obj\x86\Debug\xirakado.CmaKeyGen.Properties.Resources.resources
+C:\Users\Carol\Documents\GitHub\xirakado\v2\obj\x86\Debug\xirakado.Form1.resources
+C:\Users\Carol\Documents\GitHub\xirakado\v2\obj\x86\Debug\xirakado.csproj.GenerateResource.cache
+C:\Users\Carol\Documents\GitHub\xirakado\v2\obj\x86\Debug\xirakado.csproj.CoreCompileInputs.cache

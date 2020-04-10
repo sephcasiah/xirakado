@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xirakado", "xirakado.csproj", "{A3BE44C4-DFEE-4823-A0D3-9F128C6ABE3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3BE44C4-DFEE-4823-A0D3-9F128C6ABE3A}.Debug|x86.ActiveCfg = Debug|x86
+		{A3BE44C4-DFEE-4823-A0D3-9F128C6ABE3A}.Debug|x86.Build.0 = Debug|x86
+		{A3BE44C4-DFEE-4823-A0D3-9F128C6ABE3A}.Release|x86.ActiveCfg = Release|x86
+		{A3BE44C4-DFEE-4823-A0D3-9F128C6ABE3A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA79BFEE-D297-42CB-AF30-C9BCAD8A5802}
+	EndGlobalSection
+EndGlobal
